@@ -60,8 +60,8 @@ fly/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd React/fly
+git clone https://github.com/Sg-2003/React-Project.git
+cd React-Project/fly
 ```
 
 2. Install dependencies:
